@@ -6711,7 +6711,7 @@ gatsby-plugin-google-fonts@^1.0.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-fonts/-/gatsby-plugin-google-fonts-1.0.1.tgz#d71054f7bf207b9a8da227380369e18e6f4e0201"
   integrity sha512-p1NVkn27GUnDA5qHM+Z4cCcLCJIardzZXMon3640sT4xuL/AZJbsx3HEt2KY/5oZu0UXIkytkxzV2Da4rQeUIg==
 
-gatsby-plugin-manifest@^2.1.1:
+gatsby-plugin-manifest@^2.12.1:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.12.1.tgz#d92f23d2d17d3c69445ef7b7842e5441e8dd785e"
   integrity sha512-Kiom3IHQ+hsRA/yt+XcBdOn1q+Rqbso5Iw0mXQQg+F+8U23sU66NaJY67ZXUkW8iwU25SOrwZaSw49C8BV0EGw==
@@ -6770,7 +6770,7 @@ gatsby-plugin-react-helmet@^3.0.12:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-plugin-sharp@^2.1.1:
+gatsby-plugin-sharp@^2.14.4:
   version "2.14.4"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.14.4.tgz#efdc41a028493b978305d0985ab300570aac9d07"
   integrity sha512-Q4C+mKbF/sJv1oTEyPO5CLOS+cwziZoAxH35lSWVONRLinlv752QKR8gqVxfnON2HMjWw4OZ+hGQ0CmvFrj5Yg==
@@ -6990,7 +6990,7 @@ gatsby-transformer-remark@^2.3.12:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.4.1"
 
-gatsby-transformer-sharp@^2.1.19:
+gatsby-transformer-sharp@^2.12.1:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-2.12.1.tgz#f55f1e91600c707d9c81386ef308cd2edbb6d16b"
   integrity sha512-J9eZB82EMW3QnkGAJVH2X4ydmcRoDGLMPJBzc/VWDSxexuE7CYO/aQvq5RdCW5xetYu7X7J/gSiDflrNNS+F7w==
